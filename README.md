@@ -1,6 +1,6 @@
 # Traveling Salesman Solver with MAP and Route Export
 
-[HowTo](https://github.com/DrEricEbert/AI_Generated_Problem_Solver/blob/main/TSP_Route/howto.md)
+[How To](https://github.com/DrEricEbert/AI_Generated_Problem_Solver/blob/main/TSP_Route/howto.md)
 
 # TOR RSS Reader
 
