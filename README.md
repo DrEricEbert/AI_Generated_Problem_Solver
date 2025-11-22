@@ -5,3 +5,7 @@
 # TOR RSS Reader
 
 [How To](https://github.com/DrEricEbert/AI_Generated_Problem_Solver/blob/main/tor_rss_reader/howto.md)
+
+# Meeting Cost Timer
+
+Simply open the html in web browser and track the cost of your meetings and discussions.
