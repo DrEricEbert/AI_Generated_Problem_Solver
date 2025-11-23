@@ -1,0 +1,14 @@
+{
+  "plugin_name": "CameraPlugin",
+  "plugin_version": "2.0",
+  "parameters": {
+    "resolution_width": 640,
+    "resolution_height": 480,
+    "default_exposure": 100.0,
+    "default_gain": 1.0,
+    "enable_overlay": true,
+    "image_format": "PNG",
+    "jpeg_quality": 90,
+    "noise_level": 5
+  }
+}

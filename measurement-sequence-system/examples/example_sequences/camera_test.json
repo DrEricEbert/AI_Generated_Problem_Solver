@@ -1,0 +1,33 @@
+{
+  "name": "Kamera-Bildaufnahme Test",
+  "description": "Bildaufnahme mit verschiedenen Belichtungszeiten",
+  "parameter_ranges": [
+    {
+      "parameter_name": "exposure",
+      "start": 10,
+      "end": 500,
+      "steps": 6,
+      "unit": "ms"
+    },
+    {
+      "parameter_name": "gain",
+      "start": 1.0,
+      "end": 5.0,
+      "steps": 3,
+      "unit": ""
+    }
+  ],
+  "measurement_points": [],
+  "active_plugins": [
+    "CameraPlugin"
+  ],
+  "processing_plugins": [
+    "ImageProcessor",
+    "ImageQualityChecker"
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "author": "System",
+    "category": "Image Acquisition"
+  }
+}

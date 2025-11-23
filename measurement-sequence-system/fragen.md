@@ -1,0 +1,5 @@
+# Professionelle Messsequenz-Software mit Plugin-System
+
+schreibe mir eine software in python mit tkinter gui um messequenzen abzubilden. es soll einen sequenzgenerator geben, die sequenzen sollen als json gespeichert werden können. es sollen in den sequenzen Parameterbereiche und messpunkte definiert werden können. Die software soll über einen Plugin mechanismus verfügen. Die Plugin sollen entweder Messgeräte (Temperatur, Elektrische Leistung/Strom/Spannung/Wiederstand, Kamera Bilder etc.) oder andere Programme steuern /messen können. Dazu müssen Parameter in beide Richtungen ausgetauscht werden können. Zum anderen soll es prozessierungsplugins geben, die eine verarbeitung der zurückgegebenen parameter ermöglicht. Es sollten Statistische auswertungen und Bildverareitung möglich sein. alle eigenschaften sollten persistent gespeichert und geladen werden können. Grafische darstellung der ergebnisse wird benötigt. Messergebnisse sollen in einer SQLite Datenbank samt zeitstempel und Einheiten abgelegt werden. diese Informationen kommen von den Plugins. Du bist ein professioneller Python entwickler.
+
+

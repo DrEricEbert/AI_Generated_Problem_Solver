@@ -1,0 +1,26 @@
+{
+  "name": "Einfacher Temperatur-Sweep",
+  "description": "Grundlegende Temperaturmessung von 20°C bis 80°C",
+  "parameter_ranges": [
+    {
+      "parameter_name": "temperature",
+      "start": 20.0,
+      "end": 80.0,
+      "steps": 7,
+      "unit": "°C"
+    }
+  ],
+  "measurement_points": [],
+  "active_plugins": [
+    "TemperatureSensor",
+    "ElectricalMeter"
+  ],
+  "processing_plugins": [
+    "StatisticsProcessor"
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "author": "System",
+    "category": "Temperature Test"
+  }
+}

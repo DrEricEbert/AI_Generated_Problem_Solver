@@ -1,0 +1,12 @@
+{
+  "plugin_name": "TemperatureSensor",
+  "plugin_version": "2.0",
+  "parameters": {
+    "noise_level": 0.1,
+    "response_time": 0.3,
+    "pt100_enabled": true,
+    "sensor_type": "PT100",
+    "offset": 0.0,
+    "settling_steps": 3
+  }
+}

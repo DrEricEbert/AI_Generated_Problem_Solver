@@ -1,0 +1,24 @@
+{
+  "name": "Delay-Plugin Test",
+  "description": "Test des nicht-blockierenden Delay-Plugins",
+  "parameter_ranges": [
+    {
+      "parameter_name": "delay",
+      "start": 0.5,
+      "end": 3.0,
+      "steps": 6,
+      "unit": "s"
+    }
+  ],
+  "measurement_points": [],
+  "active_plugins": [
+    "DelayPlugin",
+    "TemperatureSensor"
+  ],
+  "processing_plugins": [],
+  "metadata": {
+    "created": "2024-01-01",
+    "author": "System",
+    "category": "Timing Test"
+  }
+}

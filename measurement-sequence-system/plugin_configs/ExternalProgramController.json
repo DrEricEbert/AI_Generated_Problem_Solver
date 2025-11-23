@@ -1,0 +1,19 @@
+{
+  "plugin_name": "ExternalProgramController",
+  "plugin_version": "3.0",
+  "parameters": {
+    "program_path": "",
+    "program_arguments": "",
+    "working_directory": "",
+    "window_title": "",
+    "window_title_partial": true,
+    "start_program": false,
+    "wait_after_start": 2.5,
+    "focus_window": true,
+    "maximize_window": false,
+    "action_sequence_file": "/home/eric/github/test/test.json",
+    "execute_sequence": true,
+    "timeout": 30,
+    "capture_output": true
+  }
+}

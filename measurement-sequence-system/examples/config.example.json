@@ -1,0 +1,28 @@
+{
+    "database_path": "measurements.db",
+    "plugin_directory": "plugins",
+    "last_sequence_path": "",
+    "window_geometry": "1400x900",
+    "auto_save": true,
+    "measurement_delay": 0.5,
+    "max_history": 1000,
+    "plot_settings": {
+        "theme": "default",
+        "grid": true,
+        "legend": true,
+        "dpi": 100,
+        "figure_size": [8, 6]
+    },
+    "recent_files": [],
+    "logging": {
+        "level": "INFO",
+        "file": "measurement_system.log",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    },
+    "hardware": {
+        "timeout": 30,
+        "retry_count": 3,
+        "serial_port": "COM1",
+        "baud_rate": 9600
+    }
+}
