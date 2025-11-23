@@ -15,4 +15,4 @@ No warranty at all. MIT License.
 Simply open the html in web browser and track the cost of your meetings and discussions.
 
 # Measurement System with Plugins and Sequences
-[How To](https://github.com/DrEricEbert/AI_Generated_Problem_Solver/blob/main/measurement-sequence-system/HowTo.md)
+[How To](https://github.com/DrEricEbert/AI_Generated_Problem_Solver/blob/main/measurement-sequence-system/howto.md)
